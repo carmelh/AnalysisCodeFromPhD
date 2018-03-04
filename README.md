@@ -1,6 +1,6 @@
 # Thesis
 Analysis Code from PhD. thesis
-doi: 10.6084/m9.figshare.5946775
+doi: 10.6084/m9.figshare.5946802
 
 Run in this order:
 1. spikeDetect
