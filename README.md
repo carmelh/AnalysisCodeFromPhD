@@ -9,3 +9,7 @@ Run in this order:
 4. SPRimageProcessing
 5. FFT_analysis
 6. furtherAnalysis
+
+
+# Dependencies
+Developed using MATLAB 2014a
